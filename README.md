@@ -1,5 +1,5 @@
 # 💰 Finance Dashboard – Power BI 
-![Finance Dashboard Preview](97be1324-840d-47fb-9e44-94967ef032d6.png)
+![Finance Dashboard Preview](Docs/Finance dashboard.png)
 
 ## 📌 Project Overview
 This is a **Finance Dashboard** I built in **Power BI** as a practice project to improve my data visualization and DAX skills.  
