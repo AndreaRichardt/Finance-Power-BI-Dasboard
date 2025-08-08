@@ -121,4 +121,4 @@ My main goal was to create a clean, interactive, and insightful dashboard that q
 
 ## 📬 Let's Connect
 If you have feedback or ideas for improvement, I'd love to hear from you!  
-💼 [LinkedIn](www.linkedin.com/in/andrea-richardt-rios) 
+💼 [LinkedIn](https://www.linkedin.com/in/andrea-richardt-rios)
