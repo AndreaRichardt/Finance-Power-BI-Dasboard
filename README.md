@@ -1,5 +1,5 @@
 # 💰 Finance Dashboard – Power BI 
-![Finance Dashboard Preview](Docs/Finance dashboard.png)
+![Finance Dashboard Preview](Docs/Finance_dashboard.png)
 
 ## 📌 Project Overview
 This is a **Finance Dashboard** I built in **Power BI** as a practice project to improve my data visualization and DAX skills.  
@@ -103,7 +103,7 @@ My main goal was to create a clean, interactive, and insightful dashboard that q
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file from this repository
+1. Download the `.pbix` file ![here](Docs/Dashboard.pbix)
 2. Open it in **Power BI Desktop** (free)
 3. Use the year filters and line chart selector to explore different views
 4. Hover over charts for detailed tooltips and insights
@@ -121,4 +121,4 @@ My main goal was to create a clean, interactive, and insightful dashboard that q
 
 ## 📬 Let's Connect
 If you have feedback or ideas for improvement, I'd love to hear from you!  
-💼 [LinkedIn](https://www.linkedin.com/) 
+💼 [LinkedIn](www.linkedin.com/in/andrea-richardt-rios) 
